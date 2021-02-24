@@ -1,4 +1,4 @@
-name := "untitled"
+name := "SparkTestJob"
 
 version := "0.1"
 
